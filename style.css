@@ -1,0 +1,39 @@
+
+.container {
+  background-color: beige;
+  width: 400px;
+  height: 550px;
+  border-radius: 16px;
+  border: 2px solid black;
+  box-shadow: 10px 10px 5px black;
+}
+
+.bottom {
+  margin-left: 16px;
+  margin-right: 16px;
+  margin-top: 32px;
+}
+
+button {
+  background-color: gold;
+  border-radius: 5px;
+  padding: 3px;
+}
+
+.profile {
+  display: flex;
+  margin-bottom: 0px;
+  margin-top: 8px;
+}
+body {
+  background-color: rgb(234, 201, 12);
+  display: flex;
+  justify-content: center;
+  margin-top: 280px;
+}
+.image {
+    display: flex;
+    justify-content: center;
+    margin-top: 32px;
+    width: 100%;
+}
